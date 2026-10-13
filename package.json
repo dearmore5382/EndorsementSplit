@@ -1,0 +1,1 @@
+{"name":"endorsement-split","version":"1.0.0","private":true,"type":"module","scripts":{"live":"node verification/run-live.mjs"},"dependencies":{"genlayer-js":"1.1.8"}}

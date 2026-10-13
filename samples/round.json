@@ -1,0 +1,1 @@
+{"schema":"endorsement-round-v1","round_ref":"GRANT-2026-01","milestones":[{"milestone_id":"M1","title":"Threat model","requirement":"Produce the bounded threat model and adversarial cases."},{"milestone_id":"M2","title":"Contract implementation","requirement":"Implement the reviewed contract state machine and security invariants."}]}

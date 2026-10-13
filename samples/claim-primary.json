@@ -1,0 +1,1 @@
+{"schema":"contribution-claim-v1","milestone_ids":["M2"],"statement":"Implemented the contract state machine, authorization guards, replay prevention, and direct tests for the reviewed milestone."}
